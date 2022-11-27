@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
-<h3 align="center">Cybersecurity | Networking | Game Development |Quantum Computing </h3>
+<h3 align="center">Cybersecurity | Networking | Game Development | Quantum Computing </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000sushant&label=Profile%20views&color=0e75b6&style=flat" alt="000sushant" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **000sushantkumar@gmail.com**
 
-- ⚡ Fun fact **I am interested in Gaming andAstronomy**
+- ⚡ Fun fact **I am interested in Gaming and Astronomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
