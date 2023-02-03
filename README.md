@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quantum computing**
 
-- 👯 I’m looking to collaborate on **Opensource cybersecurity tools**
+- 👯 I’m looking to collaborate on **Opensource cybersecurity projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/000Sushant/Portfolio](https://github.com/000Sushant/Portfolio)
 
