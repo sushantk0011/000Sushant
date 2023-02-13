@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
-<h3 align="center">Cybersecurity | Networking | Game Development | Quantum Computing </h3>
+<h3 align="center">Cybersecurity | Networking | Game Development | Web Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000sushant&label=Profile%20views&color=0e75b6&style=flat" alt="000sushant" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=000sushant" alt="000sushant" /></a> </p>
 
-- 🔭 I’m currently working on **Quantum computing**
+- 🔭 I’m currently working on **Web Application Security Automation**
 
 - 👯 I’m looking to collaborate on **Opensource cybersecurity projects**
 
